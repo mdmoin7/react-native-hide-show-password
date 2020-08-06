@@ -8,6 +8,7 @@ Sample usage of the component is as below
 
 # RECOMMENDED to use native components
 Updated code is available in new file PasswordTextBoxNative.js
+
      <Password
             label={'Password'}
             onChange={password => this.setState({password})}
